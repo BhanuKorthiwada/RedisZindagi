@@ -60,7 +60,7 @@ Blood donation management app using Redis JSON, Redis Search and C# Blazor
   - [Amazon SES](https://aws.amazon.com/premiumsupport/knowledge-center/ses-create-smtp-credentials)
   - [Mail Jet](https://documentation.mailjet.com/hc/en-us/articles/360043229473-How-can-I-configure-my-SMTP-parameters)
   - [Mailgun](https://www.mailgun.com/email-api)
-- SMS: SMS feature code is implemented. However, current code doesn't make use of it for now. Below are some of popular providers:
+- SMS: SMS feature code is not yet implemented. However, it is planned. Below are some of popular providers:
   - [Msg91](https://msg91.com/transactional-sms)
   - [Twilio](https://www.twilio.com/sms)
 
